@@ -4,7 +4,7 @@ This is the snake game made in Processing.
 [Based](https://www.google.com/fbx?fbx=snake_arcade)
 
 ## Game
-[![menu image](https://i.postimg.cc/x18DDgWr/menu.png)](https://postimg.cc/56hk854p)
+[![gameplay image](https://i.postimg.cc/tRz49Sm7/gameplay.png)](https://postimg.cc/hhfBrrnq)
 
 ## Levels
 Different levels of difficulty:
