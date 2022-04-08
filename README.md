@@ -14,5 +14,5 @@ git clone https://github.com/HectorMartinDama/SnakeGame_Processing.git
 ```
 # Instructions
 1. Install [Processing](https://processing.org/download)
-2. Go to download section.
+2. Go to Download section.
 3. Double click "Snake_Game.pde"
