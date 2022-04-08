@@ -3,9 +3,8 @@ This is the snake game made in Processing.
 
 [Based](https://www.google.com/fbx?fbx=snake_arcade)
 
-# Pantalla Principal
-
-
+## Menu
+[![menu image](https://i.postimg.cc/x18DDgWr/menu.png)](https://postimg.cc/56hk854p)
 
 
 # Download
@@ -17,4 +16,4 @@ git clone https://github.com/HectorMartinDama/SnakeGame_Processing.git
 2. Go to Download section.
 3. Double click "Snake_Game.pde"
 4. 
-[![Example execute](https://i.postimg.cc/C1y47LjP/execue.png)](https://postimg.cc/3yBpJhfm)
+[![Example execute image](https://i.postimg.cc/C1y47LjP/execue.png)](https://postimg.cc/3yBpJhfm)
